@@ -1,5 +1,5 @@
 # Mohamed Aboulela - Software Engineer
-#### Aman Ibrahim's Portfolio site
+#### Mohamed Aboulela's Portfolio site
 
 Find the site at [moaboulela.cool](https://moaboulela.cool)
 
